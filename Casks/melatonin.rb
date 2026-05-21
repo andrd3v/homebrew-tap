@@ -1,6 +1,6 @@
 cask "melatonin" do
-  version "1.5.7"
-  sha256 "f33a5bbbf1939473bc6abebaa410f3235ede129d72ef17422ad77b8f07abef01"
+  version "1.5.8"
+  sha256 "cb00ced2401c57e9fe0e92bc25d62ddac6855e000482ac1b12ac941f5f701086"
 
   url "https://github.com/andrd3v/Melatonin/releases/download/v#{version}/Melatonin.pkg"
   name "Melatonin"
